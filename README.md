@@ -1,2 +1,4 @@
 # Starter-Weather-Forcast-code
-A weather forecasting and alert system for a specific region or city
+This can be the very beginning of your very own weather forecast!
+
+You'll need to replace the 'YOUR_API_KEY' with your OpenWeatherMap API key.
